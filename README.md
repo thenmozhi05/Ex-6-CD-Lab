@@ -1,7 +1,8 @@
 
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date : 28/10/2025
+# Name: thenmozhi p 
+# Date : 30/10/2025
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
